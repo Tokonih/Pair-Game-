@@ -29,13 +29,22 @@ nav h1{
 
 
 nav div{
-    height: 50px;
-    width: 50%;
+    padding-top: 20px;
+    width: 90%;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    flex: end;
 }
+
+button{
+    padding: 10px 5px;
+    border-radius: 5px;
+    color: blue;
+    border: none;
+}
+
+
 main{
     width: 90%;
     margin: auto;
